@@ -1,1 +1,1 @@
-#Wprowadzenie do Pythona
+# Wprowadzenie do Pythona
